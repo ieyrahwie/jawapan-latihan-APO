@@ -1,0 +1,4 @@
+celcius= float(input("enter celcius temperature to convert it to Fahrenheit:"))
+formula= (celcius*9/5)+32
+
+print("this is Fahrenheit temperature:",formula)
