@@ -1,0 +1,2 @@
+number = input("user enter a number:")
+print("display the number that user choose," + number)
