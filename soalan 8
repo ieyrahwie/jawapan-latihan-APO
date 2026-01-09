@@ -1,0 +1,6 @@
+price= float(input("price of item:"))
+quantity= float(input("total quantity of item:"))
+
+formula= (price*quantity)
+
+print("total price of purchase:",formula)
